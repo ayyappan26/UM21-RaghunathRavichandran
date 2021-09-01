@@ -53,7 +53,7 @@ class Display{
 			myson.eat();
 			myson.income();
 			myson.boxing();
-			System.out.println("--------------------");
+			System.out.println("--------------------Finished---------------");
 			
 		}
 		if(mydad instanceof Daughter){
