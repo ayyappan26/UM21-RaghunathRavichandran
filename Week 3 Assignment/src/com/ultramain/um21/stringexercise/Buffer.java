@@ -1,4 +1,4 @@
-package com.ultramain.um21.stringExercise;
+package com.ultramain.um21.stringexercise;
 
 public class Buffer {
 	public static void main(String args[]){

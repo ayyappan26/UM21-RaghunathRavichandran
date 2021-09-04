@@ -1,4 +1,4 @@
-package com.ultramain.um21.interfaceAssignment;
+package com.ultramain.um21.interfaceassignment;
 
 public class LibraryInterfaceDemo {
 	public static void main(String arg[]){

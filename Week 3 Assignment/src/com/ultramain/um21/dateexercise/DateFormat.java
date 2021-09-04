@@ -1,4 +1,4 @@
-package com.ultramain.um21.dateExercise;
+package com.ultramain.um21.dateexercise;
 
 import java.text.SimpleDateFormat;
 import java.util.TimeZone;

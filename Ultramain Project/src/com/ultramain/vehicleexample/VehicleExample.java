@@ -1,4 +1,4 @@
-package com.ultramain.vechicleExample;
+package com.ultramain.vehicleexample;
 
 public class VechicleExample
 {

@@ -1,4 +1,4 @@
-package com.ultramain.um21.collectionExercise;
+package com.ultramain.um21.collectionexercise;
 
 import java.util.HashSet;
 class CollectionHashWork{
